@@ -8,7 +8,7 @@
 
 import
   std/[macros, times, monotimes],
-  ./benchmarks/platforms
+  ../benchmarks/platforms
 
 # ############################################################
 #
